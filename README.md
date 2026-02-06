@@ -42,5 +42,7 @@ using bucket policies.
 
 \- Cloud-based web hosting fundamentals
 
+Resources were deleted to avoid unnecessary cloud costs.
+
 
 
